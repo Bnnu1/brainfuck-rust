@@ -1,0 +1,16 @@
+My BrainFuck interpreter in Rust
+
+Author:
+Rhea Williams
+
+Date:
+2025-01-27
+
+Compile:
+cargo build
+
+Run:
+cargo run
+
+Test:
+Run program, enter src/[FILENAME]
